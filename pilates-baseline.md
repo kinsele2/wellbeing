@@ -3,7 +3,8 @@
 **Last updated**: August 2026 (Week 8 of 8-week re-entry plan)
 **Status**: Active — **Tuesday 7:30am** 30-minute anchor session, moved from Saturday in Week 2 of the re-entry plan and held every week since. The move is permanent and has been the single most successful structural change in the exercise side of the project.
 
-**Scope note**: this file covers the Tuesday anchor session only. The two mid-week sessions are specified in **`pilates-wfh-session.md`**, which is authoritative for their content and timing.
+> [!NOTE]
+> This file covers the Tuesday anchor session only. The two mid-week sessions are specified in `pilates-wfh-session.md`, which is authoritative for their content and timing.
 
 ---
 
@@ -75,7 +76,8 @@ Run in Downdog at 7:30am, ahead of the 7pm BodyPump class the same evening. The 
 - Easy Seat
 - Bound Angle Fold
 
-⚠️ = genuinely difficult, and historically a reason for avoiding the session. All three are high value and should be retained — see assessment below. As of Week 4 these were reported as getting noticeably easier.
+> [!CAUTION]
+> ⚠️ = genuinely difficult, and historically a reason for avoiding the session. All three are high value and should be retained — see assessment below. As of Week 4 these were reported as getting noticeably easier.
 
 ---
 
@@ -134,7 +136,10 @@ Summary only:
 | Session A — Mobility | Tuesday, immediately post-BodyPump | Thoracic rotation range | ~14 min |
 | Session B — Stability | Thursday, immediately post-run | Anti-rotation control | ~13 min |
 
-**Status**: finalised design, not yet started. First exposure planned during the Weeks 9–10 break at deliberately low effort, to learn the sequences. Full start Week 11.
+**Status**: finalised design, not yet started.
+
+- [ ] First exposure during the Weeks 9–10 break, deliberately low effort, to learn the sequences
+- [ ] Full start, Week 11
 
 ---
 
@@ -144,7 +149,8 @@ Summary only:
 
 **Why it's dormant**: the symptoms it was designed for — lower back ache on standing, general morning stiffness — have substantially reduced through the Tuesday session and the golf pre-swing primer. The daily-habit format also carries the highest decision-load cost of anything in the project, which is precisely why it never started. Adding it now would compete with the two mid-week sessions for the same limited attention budget.
 
-**Revisit if**: morning stiffness or standing-up ache returns and persists for more than two or three weeks despite the Tuesday session and mid-week work running normally.
+> [!TIP]
+> Revisit if morning stiffness or standing-up ache returns and persists for more than two or three weeks despite the Tuesday session and mid-week work running normally.
 
 The sequence, preserved for that eventuality:
 
@@ -171,7 +177,8 @@ Projected on return from holidays after a month without exercise:
 | Weeks 6–8 | Recognisably like pre-holiday baseline | Confirmed and arguably exceeded — Week 6 reported inner stability and reserve capacity in running described as unlike previous attempts; Week 7 produced the strongest Pilates and BodyPump sessions of the block |
 | Months 3–4 | Genuinely strong and agile; noticed in retrospect | Still ahead. This is the horizon the mid-week sessions are aimed at |
 
-**Important**: diet and exercise interact directly on this timeline. Inflammation, blood sugar instability and alcohol all slow recovery. Improving both simultaneously is what produces meaningful change — the Week 7 cheat day is a small live demonstration, where a single poor-diet day produced a physical reaction that would have gone unnoticed eight weeks earlier.
+> [!IMPORTANT]
+> Diet and exercise interact directly on this timeline. Inflammation, blood sugar instability and alcohol all slow recovery. Improving both simultaneously is what produces meaningful change — the Week 7 cheat day is a small live demonstration, where a single poor-diet day produced a physical reaction that would have gone unnoticed eight weeks earlier.
 
 ---
 

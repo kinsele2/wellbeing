@@ -1,4 +1,4 @@
-# Weekly Progress Log — Diet & Exercise Re-Entry
+# Weekly Progress Log — Diet & > **EXERCISE Re-Entry
 
 **Plan period**: 8 weeks from return from holidays
 **Log purpose**: Track weekly progress against the re-entry plan. Used as context for weekly check-in conversations.
@@ -7,10 +7,10 @@
 
 ## Week 1 — Reactivate
 
-**Exercise**: 3/4
-- BodyPump (Tuesday) ✓
-- Monday run: not attempted (not in week 1 plan — correct)
-- Thursday run: not attempted
+> **EXERCISE**: 3/4
+- [ ] BodyPump (Tuesday) ✓
+- [x] Monday run: not attempted (not in week 1 plan — correct)
+- [x] Thursday run: not attempted
 - Saturday Pilates: ✓ (session done on Sunday instead of Saturday, replacing golf)
 - Saturday 5km run at 9.5kph: ✓ (substituted for Pilates — note: not interchangeable)
 
@@ -40,11 +40,11 @@
 
 ## Week 2 — Stabilise
 
-**Exercise**: 4/4
-- Monday run: 7k completed ✓
-- Tuesday Pilates: ✓ (Session moved this week to Tuesday mornings, successfully)
-- BodyPump (Tuesday) ✓
-- Thursday run: 7k completed ✓ 
+> **EXERCISE**: 4/4
+- [x] Monday run: 7k completed ✓
+- [x] Tuesday Pilates: ✓ (Session moved this week to Tuesday mornings, successfully)
+- [ ] BodyPump (Tuesday) ✓
+- [x] Thursday run: 7k completed ✓ 
 
 **Porridge**: 7/7 ✓ — habit established immediately, genuinely enjoyed
 
@@ -59,11 +59,11 @@
 
 ## Week 3 — Full Routine Returns
 
-**Exercise**: 4/4
-- Monday run: 7k completed ✓
-- Tuesday Pilates: ✓ Tuesday session holding well - feels in the core, unmissable part of the week
-- BodyPump (Tuesday) ✓
-- Thursday run: 7k completed ✓ 
+> **EXERCISE**: 4/4
+- [x] Monday run: 7k completed ✓
+- [x] Tuesday Pilates: ✓ Tuesday session holding well - feels in the core, unmissable part of the week
+- [ ] BodyPump (Tuesday) ✓
+- [x] Thursday run: 7k completed ✓ 
 
 **Porridge**: 7/7 ✓ — habit established immediately, genuinely enjoyed
 
@@ -89,11 +89,11 @@ I started adding spinach to meals and sandwiches, and can't really notice any ta
 
 ## Week 4 — Consolidate
 
-**Exercise**: 4/4
-- Monday 8k run: ✓ - helped shift a very low Sunday evening / Monday motivation trough
-- Tuesday Pilates: ✓ - morning session, felt strength and mobility improving, exercises getting easier
-- Tuesday BodyPump: ✓ - held same weights as previous week (correctly, no self-added load), felt strong throughout
-- Thursday 7k run: ✓ - genuinely enjoyable, positive feelings afterwards
+> **EXERCISE**: 4/4
+- [x] Monday 8k run: ✓ - helped shift a very low Sunday evening / Monday motivation trough
+- [x] Tuesday Pilates: ✓ - morning session, felt strength and mobility improving, exercises getting easier
+- [x] Tuesday BodyPump: ✓ - held same weights as previous week (correctly, no self-added load), felt strong throughout
+- [x] Thursday 7k run: ✓ - genuinely enjoyable, positive feelings afterwards
 
 **Porridge**: 7/7 
 
@@ -131,11 +131,11 @@ Strong Week 4 despite a difficult start. Full exercise routine held (4/4), Pilat
 
 ## Week 5 — First Real Assessment
 
-**Exercise**: 4/4
-- Monday 8k run: ✓
-- Tuesday Pilates: ✓
-- Tuesday BodyPump: ✓
-- Thursday 7k run: ✓
+> **EXERCISE**: 4/4
+- [x] Monday 8k run: ✓
+- [x] Tuesday Pilates: ✓
+- [x] Tuesday BodyPump: ✓
+- [x] Thursday 7k run: ✓
 
 **Porridge**: 7/7 
 
@@ -163,11 +163,11 @@ Strong on the numbers — 5 weeks straight at 4/4, porridge now genuinely automa
 
 ## Week 6 — Extend
 
-**Exercise**: 4/4
-- Monday 8k run: ✓
-- Tuesday Pilates: ✓
-- Tuesday BodyPump: ✓
-- Thursday 7k run: ✓
+> **EXERCISE**: 4/4
+- [x] Monday 8k run: ✓
+- [x] Tuesday Pilates: ✓
+- [x] Tuesday BodyPump: ✓
+- [x] Thursday 7k run: ✓
 
 **Porridge**: 7/7 
 
@@ -185,11 +185,11 @@ Strong on the numbers — 5 weeks straight at 4/4, porridge now genuinely automa
 
 ## Week 7 — Reinforce
 
-**Exercise**: 4/4
-- Monday 8k run: ✓
-- Tuesday Pilates: ✓
-- Tuesday BodyPump: ✓
-- Thursday 7k run: ✓ - happened on Friday this week
+> **EXERCISE**: 4/4
+- [x] Monday 8k run: ✓
+- [x] Tuesday Pilates: ✓
+- [x] Tuesday BodyPump: ✓
+- [x] Thursday 7k run: ✓ - happened on Friday this week
 
 **Porridge**: 6/7 - one "cheat" day this week, see notable events
 
@@ -210,11 +210,11 @@ In terms of how the cheat day went on Wednesday and Thursday, I really enjoyed t
 
 ## Week 8 — Review Before Break
 
-**Exercise**: 0/4
-- Monday 8k run: 
-- Tuesday Pilates: 
-- Tuesday BodyPump: 
-- Thursday 7k run: 
+> **EXERCISE**: 3/4
+- [x] Monday 8k run: 
+- [x] Tuesday Pilates: 
+- [x] Tuesday BodyPump: 
+- [ ] Thursday 7k run: 
 
 **Porridge**: 0/7 
 

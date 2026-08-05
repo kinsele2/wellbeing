@@ -1,9 +1,13 @@
 # Pilates — Mid-Week Sessions
 
 **Last updated**: August 2026 (Week 8 of 8-week re-entry plan)
-**Status**: Finalised design — **not yet started**. Planned first exposure during the Weeks 9–10 break, at deliberately low effort, to learn the sequences. Full start: Week 11.
+**Status**: Finalised design — **not yet started**.
 
-**This file supersedes** all previous WFH Pilates specifications, including those in `pilates-baseline.md` and `golf-swing-practice.md`. Where those files conflict with this one, this file is correct.
+- [ ] First exposure during the Weeks 9–10 break, deliberately low effort, to learn the sequences
+- [ ] Full start, Week 11
+
+> [!IMPORTANT]
+> This file supersedes all previous WFH Pilates specifications, including those in `pilates-baseline.md` and `golf-swing-practice.md`. Where those files conflict with this one, this file is correct.
 
 ---
 
@@ -29,7 +33,8 @@ Both sessions are attached to an existing behaviour rather than initiated indepe
 
 Attaching Session B to the run rather than to Thursday means it moves when the run moves. If the run slides to Friday, so does the session. That is intended.
 
-**Thursday sequencing note**: the order is run → session → anything else. Thursday is an office day and historically a beer evening; the 13 minutes go before that, not after. Decide this once, not weekly.
+> [!NOTE]
+> Thursday sequencing: the order is run → session → anything else. Thursday is an office day and historically a beer evening; the 13 minutes go before that, not after. Decide this once, not weekly.
 
 ---
 
@@ -72,7 +77,8 @@ Done immediately after the Thursday run. Body is warm from the run — no warm-u
 
 Pallof Press needs a resistance band anchored at roughly chest height — a door anchor or a band looped around a bannister or door handle works. This is the one item in either session requiring kit. A basic long resistance band is inexpensive and worth having before Week 11.
 
-**If no band is available**, substitute **Plank Shoulder Taps** — from a high plank, tap the opposite shoulder with each hand in turn, keeping the hips completely still. It's a genuine bodyweight anti-rotation exercise and hits the same pattern, though less directly than the Pallof. The tell in both cases is identical: if the hips rock, the exercise isn't working.
+> [!TIP]
+> If no band is available, substitute Plank Shoulder Taps — from a high plank, tap the opposite shoulder with each hand in turn, keeping the hips completely still. It's a genuine bodyweight anti-rotation exercise and hits the same pattern, though less directly than the Pallof. The tell in both cases is identical: if the hips rock, the exercise isn't working.
 
 ---
 
@@ -139,14 +145,16 @@ Downdog is not suitable for either session — it cannot build custom sequences.
 **Do one of each, at deliberately low effort, purely to learn the sequences.** The deload plan already has Pilates slots available (Thursday of Week 9, two sessions in Week 10) — use those rather than adding volume.
 
 Objectives for these two exposures:
-1. Learn what each exercise actually is, particularly Dead Bug and Pallof Press
-2. Find out whether the durations are right in practice
-3. Build the two Seconds programmes
-4. Confirm the band anchor point at home
+
+- [ ] Learn what each exercise actually is, particularly Dead Bug and Pallof Press
+- [ ] Find out whether the durations are right in practice
+- [ ] Build the two Seconds programmes
+- [ ] Confirm the band anchor point at home
 
 This is a rehearsal, not a training block. Do not attempt to make them hard.
 
-**The real risk with these sessions is not physical fatigue** — 27 minutes of low-load mobility and stability work is trivial next to 15k of running plus BodyPump. The risk is decision load: two more things per week needing to be initiated, timed and remembered. That is what killed the morning mobility sequence. Both anchor points and both Seconds programmes exist specifically to reduce that to near zero.
+> [!WARNING]
+> The real risk with these sessions is not physical fatigue — 27 minutes of low-load mobility and stability work is trivial next to 15k of running plus BodyPump. The risk is decision load: two more things per week needing to be initiated, timed and remembered. That is what killed the morning mobility sequence. Both anchor points and both Seconds programmes exist specifically to reduce that to near zero.
 
 ---
 

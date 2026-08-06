@@ -4,7 +4,8 @@
 **Current focus (locked to 17 Aug)**: setup fundamentals only - grip, alignment, ball position, posture
 **Swing feels go in** `golf-swing-notes.md` **- protocol lives in** `golf-swing-practice.md`
 
-**Metric that matters**: holes at bogey or better. Par 71 + 18 bogeys = **89**.
+> [!NOTE]
+> Metric that matters: holes at bogey or better. Par 71 + 18 bogeys = **89**.
 
 ---
 

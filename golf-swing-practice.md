@@ -69,9 +69,11 @@ The relevant point for this file: mobility and stability are doing opposite jobs
 | Weeks 6–8 | Functional improvement. Picking up a club shouldn't reliably trigger tenderness. Post-round soreness window should be shortening. |
 | Months 2–3 | Genuine thoracic rotation and stabiliser adaptation, not just symptom reduction. "Firm and strong" starts to feel accurate. Full-speed daily swings should not produce next-day soreness. |
 
-**Note on where this actually stands**: the primer has been running since mid-July and is producing the expected effect. The mid-week Pilates sessions — the capacity-building half — have not started. The Months 2–3 row assumes both inputs. Read current progress as the primer's ceiling, not the protocol's.
+> [!NOTE]
+> Note on where this actually stands: the primer has been running since mid-July and is producing the expected effect. The mid-week Pilates sessions — the capacity-building half — have not started. The Months 2–3 row assumes both inputs. Read current progress as the primer's ceiling, not the protocol's.
 
-**When to stop self-managing this**: this timeline assumes steady, gradual improvement. If tenderness plateaus rather than trending down — no change between week 4 and week 6 despite consistent primer plus Pilates work — that signals this isn't purely a mobility/compensation issue, and a physiotherapist assessment is warranted rather than continuing to push through. Dull, load-related tenderness slowly improving is expected and normal. Tenderness that refuses to shift despite consistent input, or anything sharp, shooting, radiating down a leg, or involving numbness or tingling, is outside the scope of stretching and rotation work — see a physio.
+> [!WARNING]
+> When to stop self-managing this: this timeline assumes steady, gradual improvement. If tenderness plateaus rather than trending down — no change between week 4 and week 6 despite consistent primer plus Pilates work — that signals this isn't purely a mobility/compensation issue, and a physiotherapist assessment is warranted rather than continuing to push through. Dull, load-related tenderness slowly improving is expected and normal. Tenderness that refuses to shift despite consistent input, or anything sharp, shooting, radiating down a leg, or involving numbness or tingling, is outside the scope of stretching and rotation work — see a physio.
 
 ---
 
@@ -89,9 +91,12 @@ Constant mid-week mechanical tinkering and swing-thought switching get carried o
 
 ## 1. The Practice/Play Wall
 
-On the course, the swing is finished goods. **You do not open the wiring while trying to use it.**
+On the course, the swing is finished goods. You do not open the wiring while trying to use it.
 
-Mechanical work happens in practice. Play is execution only. This wall is the single most important rule in this file.
+Mechanical work happens in practice. Play is execution only.
+
+> [!IMPORTANT]
+> This wall is the single most important rule in this file.
 
 ## 2. How to Practise
 
@@ -152,7 +157,10 @@ The biggest bankable gain before September is **not falling apart**: converting 
 
 ## Home Practice Setup
 
-Net and camera in progress. **Set the ball-count ceiling before the first session**, not after. The failure mode this equipment introduces is unlimited unsupervised repetition of whatever the swing currently is — which, without an objective check, grooves errors as efficiently as it grooves corrections. High volume also reintroduces exactly the load pattern the primer exists to control.
+Net and camera in progress.
+
+> [!WARNING]
+> Set the ball-count ceiling before the first session, not after. The failure mode this equipment introduces is unlimited unsupervised repetition of whatever the swing currently is — which, without an objective check, grooves errors as efficiently as it grooves corrections. High volume also reintroduces exactly the load pattern the primer exists to control.
 
 ---
 

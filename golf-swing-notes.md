@@ -15,7 +15,8 @@ Ideas can be written here any time. Mechanical *changes* happen only at a block 
 **Observation** — noticed while the swing was already working. Legitimate. Gets tested.
 **Fix** — generated after a bad shot, a bad stretch, or post-round. Parked, not tested.
 
-The test for any observation: **does it work on the first tee, cold?** If it only appears once you're warm, it was the state improving, not the feel.
+> [!IMPORTANT]
+> The test for any observation: does it work on the first tee, cold? If it only appears once you're warm, it was the state improving, not the feel.
 
 ---
 
@@ -31,7 +32,8 @@ The test for any observation: **does it work on the first tee, cold?** If it onl
 
 ## Parking lot — do not act on
 
-**Review**: 18 August 2026, with the pro / launch monitor.
+> [!TIP]
+> Review 18 August 2026, with the pro / launch monitor.
 
 | Date | Idea | Why parked |
 |---|---|---|

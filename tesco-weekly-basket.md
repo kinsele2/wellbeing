@@ -4,7 +4,8 @@
 
 **How to use**: Save this as a reusable list on tesco.ie. Each week, place the order with minor edits as needed (e.g. skip something you still have). Collect on a fixed day — ideally Sunday or Monday to set up the week.
 
-**Note**: Butcher purchases (chicken pieces, meatballs, mince, burgers, chicken breasts, lamb sticks) are kept separate and assumed to continue as-is. This basket covers everything else.
+> [!NOTE]
+> Butcher purchases (chicken pieces, meatballs, mince, burgers, chicken breasts, lamb sticks) are kept separate and assumed to continue as-is. This basket covers everything else.
 
 ---
 
@@ -17,7 +18,8 @@
 | Kerrygold Pure Irish Butter | 1 block | Retain for omega 3 absorption |
 | Bananas | 1 bunch (6–7) | Easy daily fruit — increase from current ~1/week |
 
-**Breakfast note**: The oat swap is the single highest-priority dietary change. Porridge takes 3–4 minutes in a microwave. A small amount of honey or a sliced banana on top makes it palatable if plain oats feel unappealing initially.
+> [!IMPORTANT]
+> The oat swap is the single highest-priority dietary change. Porridge takes 3–4 minutes in a microwave. A small amount of honey or a sliced banana on top makes it palatable if plain oats feel unappealing initially.
 
 ---
 
@@ -85,7 +87,8 @@ These replace the ready lasagna and similar — faster to prepare than they look
 | Oat Cakes (Nairn's or similar) | 1 pack | Good alternative to biscuits/crisps when snacky — decent with hummus |
 | Dark Chocolate (70%+, small bar) | 1–2 bars | Controlled alternative to binge chocolate — have it available so it doesn't feel like deprivation |
 
-**Snack strategy note**: The dark chocolate is deliberate. Having one small bar available reduces the all-or-nothing dynamic — the binge pattern often happens partly because "good" weeks involve total abstinence from anything sweet, which is unsustainable.
+> [!TIP]
+> The dark chocolate is deliberate. Having one small bar available reduces the all-or-nothing dynamic — the binge pattern often happens partly because "good" weeks involve total abstinence from anything sweet, which is unsustainable.
 
 ---
 
@@ -117,7 +120,7 @@ These replace the ready lasagna and similar — faster to prepare than they look
 
 ## Suggested Additions Over Time (not week one)
 
-- Lentils (red lentils in bolognese are almost undetectable and significantly boost soluble fibre)
-- Porridge toppings: mixed seeds, a small jar of honey
-- Greek yoghurt (high protein snack or breakfast alternative on non-porridge days)
-- Apple or pear (once banana habit is established — further soluble fibre for cholesterol)
+- [ ] Lentils (red lentils in bolognese are almost undetectable and significantly boost soluble fibre)
+- [ ] Porridge toppings: mixed seeds, a small jar of honey
+- [ ] Greek yoghurt (high protein snack or breakfast alternative on non-porridge days)
+- [ ] Apple or pear (once banana habit is established — further soluble fibre for cholesterol)

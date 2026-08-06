@@ -2,7 +2,8 @@
 
 **Period covered**: Consistently maintained for approximately 4–5 consecutive weeks during March/April of this year
 **Last updated**: August 2026 (Week 8 of 8-week re-entry plan)
-**Status**: Historical reference. This was the target routine to rebuild toward, and it has now been rebuilt and exceeded — see Current Status below. The April record is preserved unchanged as the baseline the project was measured against.
+> [!NOTE]
+> Historical reference. This was the target routine to rebuild toward, and it has now been rebuilt and exceeded — see Current Status below. The April record is preserved unchanged as the baseline the project was measured against.
 
 ---
 
@@ -44,7 +45,8 @@ When the routine deteriorates, the typical sequence is:
 
 Understanding this pattern is useful for rebuilding: the goal when returning from a break is not to immediately restore the full routine, but to hold BodyPump as the anchor and add back the other sessions progressively.
 
-**Status as of August 2026**: step 1 of this pattern has been structurally addressed. Moving Pilates to Tuesday morning removed the standalone-session problem that made it the first casualty. The pattern should still be treated as the live risk model during breaks and disrupted weeks — Pilates remains the leading indicator of plan integrity — but the specific Saturday failure mode no longer exists.
+> [!NOTE]
+> Status as of August 2026: step 1 of this pattern has been structurally addressed. Moving Pilates to Tuesday morning removed the standalone-session problem that made it the first casualty. The pattern should still be treated as the live risk model during breaks and disrupted weeks — Pilates remains the leading indicator of plan integrity — but the specific Saturday failure mode no longer exists.
 
 ---
 
@@ -70,7 +72,8 @@ Held at 4/4 for seven consecutive weeks. This is longer than the April block, wh
 
 **Weeks 9–10 are annual leave.** See `holiday-deload-plan-weeks9-10.md` — the first deliberately designed reduced-volume break rather than a full stop.
 
-**Historical note**: the period from roughly the start of April onward saw a gradual breakdown of the routine, coinciding with the return of poor dietary habits. The two were linked, and that linkage remains the project's core assumption.
+> [!NOTE]
+> Historical note: the period from roughly the start of April onward saw a gradual breakdown of the routine, coinciding with the return of poor dietary habits. The two were linked, and that linkage remains the project's core assumption.
 
 ---
 

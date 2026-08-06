@@ -1,7 +1,8 @@
 # Diet Baseline
 
 **Period covered**: Approximately January–April of this year (best recent dietary period)
-**Status**: This represents my demonstrated achievable best, not an ideal. Habits deteriorated from around start of April and had largely reverted by mid-May when we left for holidays.
+> [!NOTE]
+> This represents my demonstrated achievable best, not an ideal. Habits deteriorated from around start of April and had largely reverted by mid-May when we left for holidays.
 
 ---
 
@@ -86,7 +87,8 @@ Diced chicken breasts (butcher), peppers, carrots, broccoli, jar sauce, served w
 - Haribo-type sweets
 - Sugary treats available in office (doughnuts, etc.)
 
-**Note**: Snacking pattern has an all-or-nothing quality — either controlled or a significant binge. This is worth tracking.
+> [!NOTE]
+> Snacking pattern has an all-or-nothing quality — either controlled or a significant binge. This is worth tracking.
 
 ---
 

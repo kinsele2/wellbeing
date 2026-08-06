@@ -1,7 +1,8 @@
 # 8-Week Re-Entry Plan — Diet & Exercise
 
 **Period**: 8 working weeks from return home (before next 2-week break)
-**Framing**: This is not 8 weeks to fix everything. It is 8 weeks to prove the system works — to demonstrate that the structural changes are sustainable for you and your family. The target at week 8 is not perfection. It is: the shopping system is holding, the breakfast swap has stuck, the exercise routine is largely back, and you feel measurably better than you did on the day you returned from holidays.
+> [!IMPORTANT]
+> This is not 8 weeks to fix everything. It is 8 weeks to prove the system works — to demonstrate that the structural changes are sustainable for you and your family. The target at week 8 is not perfection. It is: the shopping system is holding, the breakfast swap has stuck, the exercise routine is largely back, and you feel measurably better than you did on the day you returned from holidays.
 
 ---
 
@@ -177,7 +178,8 @@ The final week before the next 2-week break. This week has two purposes: complet
 
 ## Minimum Viable Week (for disrupted weeks)
 
-When a week goes wrong — illness, work pressure, family demands — this is the floor. Holding this is not failure, it is intelligent adaptation.
+> [!NOTE]
+> When a week goes wrong — illness, work pressure, family demands — this is the floor. Holding this is not failure, it is intelligent adaptation.
 
 | Element | Minimum |
 |---------|---------|

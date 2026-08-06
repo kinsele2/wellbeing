@@ -4,7 +4,10 @@
 
 I am a principal engineer in my mid-forties, based in Dublin, Ireland. I am married with a 5-year-old daughter. My wife is 44. We are a busy working family with limited time for meal planning and grocery shopping.
 
-I believe myself to be highly functioning autistic. This is directly relevant to this project — I have genuine sensory/taste aversions to certain foods (notably all fish), and while I can push through these in periods of good habit, I consistently drift back to familiar "safe" foods that I know are not good for me. Any dietary guidance must work within this constraint, not against it. Do not suggest foods I have flagged as aversive, and do not treat this as a willpower problem.
+I believe myself to be highly functioning autistic. This is directly relevant to this project — I have genuine sensory/taste aversions to certain foods (notably all fish), and while I can push through these in periods of good habit, I consistently drift back to familiar "safe" foods that I know are not good for me. Any dietary guidance must work within this constraint, not against it.
+
+> [!IMPORTANT]
+> Do not suggest foods I have flagged as aversive, and do not treat this as a willpower problem.
 
 I do not eat fish. I take daily omega 3 and CBD supplements.
 
@@ -39,7 +42,8 @@ Two files are attached to this project:
 - **diet-baseline.md** — A detailed record of my diet during my best recent period (roughly January–April of this year), before habits deteriorated
 - **exercise-baseline.md** — My exercise routine during the same period, including the breakdown pattern
 
-These represent my realistic best — not an ideal, but a demonstrated achievable state. The goal is to rebuild toward and improve on these baselines, not to achieve some theoretical perfect diet or training plan.
+> [!NOTE]
+> These represent my realistic best — not an ideal, but a demonstrated achievable state. The goal is to rebuild toward and improve on these baselines, not to achieve some theoretical perfect diet or training plan.
 
 ## How to Work With Me
 

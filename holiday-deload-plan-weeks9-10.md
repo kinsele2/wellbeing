@@ -4,7 +4,8 @@
 
 **Purpose**: Replace the historical pattern (complete stop, unrestricted diet/alcohol, "square one" by day 14) with a decoupled reset — real rest, without a full structural collapse. This is not about holding the full routine on holiday. It's about holding a floor.
 
-**Governing principle**: Decide the rules now, while motivated and clear-headed, not in the moment. Every rule below exists so a decision doesn't have to be made spontaneously while on the trip.
+> [!IMPORTANT]
+> Governing principle: decide the rules now, while motivated and clear-headed, not in the moment. Every rule below exists so a decision doesn't have to be made spontaneously while on the trip.
 
 ---
 
@@ -18,7 +19,8 @@ No new changes this week. Consolidate, don't experiment.
 
 ## Week 9, Part A — London (Thu departure – Tue evening return)
 
-**No structured sessions planned or expected here.** This is deliberate — don't try to protect BodyPump, Pilates, or runs during the trip itself. The goal is a floor, not a routine.
+> [!NOTE]
+> No structured sessions planned or expected here. This is deliberate — don't try to protect BodyPump, Pilates, or runs during the trip itself. The goal is a floor, not a routine.
 
 ### The floor
 
@@ -30,7 +32,9 @@ No new changes this week. Consolidate, don't experiment.
 | Everything else (lunches, dinners, snacks) | Fully off — this is a holiday, eat what the trip offers. No tracking, no guilt. |
 
 ### One thing to decide before you go
-Pick the alcohol "bigger" evening in advance if you can — e.g. "Saturday night out" gets the 2–3 pint allowance, every other day is the 1-pint default. Having already decided removes the in-the-moment negotiation.
+
+> [!TIP]
+> Pick the alcohol "bigger" evening in advance if you can — e.g. "Saturday night out" gets the 2–3 pint allowance, every other day is the 1-pint default. Having already decided removes the in-the-moment negotiation.
 
 ---
 
@@ -73,7 +77,8 @@ By this point you're rested from travel and this is the stretch where the "squar
 
 Full routine resumes: Monday 8k, Tuesday Pilates + BodyPump, Thursday 7k. Expect some BodyPump soreness on return regardless of what happened in Week 10 — that's normal re-entry cost, not a sign anything went wrong.
 
-**Before Week 11 starts**: place a Click & Collect order that covers the first few days back, so the very first week isn't also fighting an empty fridge — same logic as the original plan's Week 8 note about setting up faster re-entry after a break.
+> [!TIP]
+> Before Week 11 starts: place a Click & Collect order that covers the first few days back, so the very first week isn't also fighting an empty fridge — same logic as the original plan's Week 8 note about setting up faster re-entry after a break.
 
 ---
 

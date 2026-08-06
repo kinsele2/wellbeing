@@ -1,4 +1,4 @@
-# Weekly Progress Log — Diet & > **EXERCISE Re-Entry
+# Weekly Progress Log — Diet & Exercise Re-Entry
 
 **Plan period**: 8 weeks from return from holidays
 **Log purpose**: Track weekly progress against the re-entry plan. Used as context for weekly check-in conversations.
@@ -232,4 +232,5 @@ In terms of how the cheat day went on Wednesday and Thursday, I really enjoyed t
 
 ## Pattern Notes
 
-*(Observations that emerge across multiple weeks — to be added as patterns become visible)*
+> [!NOTE]
+> Observations that emerge across multiple weeks — to be added as patterns become visible.

@@ -27,6 +27,7 @@ Ideas can be written here any time. Mechanical *changes* happen only at a block 
 | 02 Aug | Club drops behind the ball; hand path stays wide rather than hitting "at" it | Back 9, while working | Test from hole 1 |
 | 02 Aug | Right hip goes down; head goes down slightly to the right | Back 9, while working | Test from hole 1 |
 | 02 Aug | "Clean contact, smooth rhythm" | Throughout | ✓ Use as the single tempo cue |
+| 17 Aug | While doing the above, the force of your upper back "pulls" towards the target, while *feeling* it is doing the opposite | On the couch thinking | Hmm |
 
 ---
 

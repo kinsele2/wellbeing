@@ -43,7 +43,7 @@
 > **EXERCISE**: 4/4
 - [x] Monday run: 7k completed ✓
 - [x] Tuesday Pilates: ✓ (Session moved this week to Tuesday mornings, successfully)
-- [ ] BodyPump (Tuesday) ✓
+- [x] BodyPump (Tuesday) ✓
 - [x] Thursday run: 7k completed ✓ 
 
 **Porridge**: 7/7 ✓ — habit established immediately, genuinely enjoyed

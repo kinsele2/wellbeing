@@ -42,7 +42,7 @@ Yank and edit.
 
 ##  24 Aug - Modified block, week 1 of 3
 
-> **EXERCISE**: /4
+> **EXERCISE**: 2/4
 - [x] Monday bike (~50 min):
 - [x] Tuesday Pilates:
 - [ ] Tuesday BodyPump:
@@ -56,9 +56,13 @@ Yank and edit.
 **Energy/motivation**: 4/10
 
 **Notable events**:
-
+This week resulted in something of an existential crisis in the project, where I wasn't able to exercises on both Tuesday evening's Bodypump, and Thursday morning's cardio for very legitimate reasons, but caused me to panic a little.
+Also on the physio exercises to heal my knee, I stopped these from Wednesday onwards. My goal now is to treat them very seriously, and look at a real way to incorporate them into each day of the week so that they are not missed. I am using the
+"every physio session missed means a longer time to return to jogging" mantra as a means to motivate. There was always going to be a difficult section in the project, and this is it. I believe however it is not insurmountable.
 
 **Assessment**:
+Take this weekend to really analyse how I am going to re-engage with the project. It is not a "working / not working" project, it is a means of how to live my life from a physical wellness perspective. As such, it won't ever stop, and in reality has never
+stopped since my very first run. It just goes through different phases of effectiveness.
 
 ---
 

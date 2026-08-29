@@ -14,7 +14,7 @@ Session content lives in `pilates-wfh-session.md`, `pilates-baseline.md` and
 
 | Block | Dates | Weeks | Shape |
 |---|---|---|---|
-| Modified | 24 Aug - 13 Sep | 3 | No running. Bike in both run slots. Daily knee reps. |
+| Modified | 24 Aug - 13 Sep | 3 | No running. Fast treadmill walk (incline) in both run slots. Daily knee reps. |
 | Portugal | 14 - 20 Sep | 1 | Mon + Tue only. Fly Wed evening. Golf load. |
 | Reassessment | 21 - 27 Sep | 1 | Rest Mon. Physio follow-up. First run if cleared. |
 | Autumn | 28 Sep - 25 Oct | 4 | Full routine |
@@ -95,12 +95,21 @@ Physio restriction: no treadmill running for approximately one month from
 
 | Day | Session |
 |---|---|
-| Monday | Bike, ~50 min |
+| Monday | Fast treadmill walk, 10-15% incline, ~50 min |
 | Tuesday | Pilates 7:30am, BodyPump 7pm, Session A post-BodyPump |
-| Thursday | Bike, ~45 min, Session B post-bike |
+| Thursday | Fast treadmill walk, 10-15% incline, ~40 min, Session B post-walk |
 
-Bike to **time, not distance**. Both slots stay occupied - that is what
+Walk to **time, not distance**. Both slots stay occupied - that is what
 preserves the anchor points for when running returns.
+
+> [!NOTE]
+> Grade and duration here aren't physio-confirmed, only the "no running"
+> restriction is. Flat walking would need no check, but 10-15% incline for
+> sustained periods loads the knee differently to flat walking or the bike -
+> worth a one-line confirmation rather than assuming it's covered by the
+> existing clearance. Same tenderness-monitoring principle as the golf
+> primer applies: dull and easing same day is fine, sharp or localised means
+> dial the incline back before the next session.
 
 **Daily knee rehab**, anchored to porridge. Bowl in the sink, straight to the
 floor, same location every day.
@@ -116,6 +125,13 @@ floor, same location every day.
 
 Session B waits until the Thursday cardio slot has proven it holds with the
 bike in it. Hanging a new session on an untested anchor loses both.
+
+> [!NOTE]
+> The Thursday slot was proven with the bike in Week 11. From Week 12 the
+> modality changes to an incline walk at the same time Session B is added -
+> so Session B is landing on a slot proven with a different exercise, not a
+> re-proven one. Worth watching Week 12 specifically for whether the new
+> combination (not just the new session) holds.
 
 ---
 

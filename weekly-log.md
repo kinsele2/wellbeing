@@ -65,11 +65,11 @@ Yank and edit.
 ##  31 Aug - Modified block, week 2 of 3
 
 > **EXERCISE**: /4
-- [ ] Monday bike:
+- [ ] Monday fast treadmill walk (10-15% incline, ~50 min):
 - [ ] Tuesday Pilates:
 - [ ] Tuesday BodyPump:
 - [ ] Session A:
-- [ ] Thursday bike:
+- [ ] Thursday fast treadmill walk (10-15% incline, ~40 min):
 - [ ] Session B (first week):
 
 **Knee reps**: /7
@@ -87,11 +87,11 @@ Yank and edit.
 ##  7 Sep - Modified block, week 3 of 3
 
 > **EXERCISE**: /4
-- [ ] Monday bike:
+- [ ] Monday fast treadmill walk (10-15% incline, ~50 min):
 - [ ] Tuesday Pilates:
 - [ ] Tuesday BodyPump:
 - [ ] Session A:
-- [ ] Thursday bike:
+- [ ] Thursday fast treadmill walk (10-15% incline, ~40 min):
 - [ ] Session B:
 
 **Knee reps**: /7
@@ -113,7 +113,7 @@ Yank and edit.
 ##  14 Sep - Portugal week
 
 > **EXERCISE**: /2
-- [ ] Monday bike:
+- [ ] Monday fast treadmill walk (10-15% incline, ~50 min) - treadmill access TBC:
 - [ ] Tuesday Pilates:
 - [ ] Tuesday BodyPump:
 - [ ] Session A:

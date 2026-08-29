@@ -12,7 +12,7 @@ June - August 2026)
 Yank and edit.
 
 ```
-## w/c DD Mon - Block name, week n of m
+##  DD Mon - Block name, week n of m
 
 > **EXERCISE**: n/n
 - [ ] Monday:
@@ -40,28 +40,29 @@ Yank and edit.
 
 ---
 
-## w/c 24 Aug - Modified block, week 1 of 3
+##  24 Aug - Modified block, week 1 of 3
 
 > **EXERCISE**: /4
-- [ ] Monday bike (~50 min):
-- [ ] Tuesday Pilates:
+- [x] Monday bike (~50 min):
+- [x] Tuesday Pilates:
 - [ ] Tuesday BodyPump:
 - [ ] Session A (post-BodyPump):
 - [ ] Thursday bike (~45 min):
 
-**Knee reps**: /7
-**Porridge**: /7
-**Shopping order**:
-**Alcohol**:
-**Energy/motivation**: /10
+**Knee reps**: 2/7
+**Porridge**: 7/7
+**Shopping order**: Made
+**Alcohol**: - 1 x 6% IPA and 1 x 3.8% Session IPA Thursday. Night out with friends Friday, 7 pints of Guinness. 2 x Session IPA Saturday
+**Energy/motivation**: 4/10
 
 **Notable events**:
+
 
 **Assessment**:
 
 ---
 
-## w/c 31 Aug - Modified block, week 2 of 3
+##  31 Aug - Modified block, week 2 of 3
 
 > **EXERCISE**: /4
 - [ ] Monday bike:
@@ -83,7 +84,7 @@ Yank and edit.
 
 ---
 
-## w/c 7 Sep - Modified block, week 3 of 3
+##  7 Sep - Modified block, week 3 of 3
 
 > **EXERCISE**: /4
 - [ ] Monday bike:
@@ -109,7 +110,7 @@ Yank and edit.
 
 ---
 
-## w/c 14 Sep - Portugal week
+##  14 Sep - Portugal week
 
 > **EXERCISE**: /2
 - [ ] Monday bike:
@@ -129,7 +130,7 @@ Fly Wednesday evening. Return Sunday 20 Sep. Golf in
 
 ---
 
-## w/c 21 Sep - Reassessment week
+##  21 Sep - Reassessment week
 
 > **EXERCISE**: /3
 - [ ] Monday: REST (post-trip rule)

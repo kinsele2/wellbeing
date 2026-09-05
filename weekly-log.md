@@ -73,18 +73,23 @@ stopped since my very first run. It just goes through different phases of effect
 - [x] Tuesday Pilates:
 - [x] Tuesday BodyPump:
 - [ ] Session A:
-- [ ] Thursday fast treadmill walk (10-15% incline, ~40 min):
+- [x] Thursday fast treadmill walk (10-15% incline, ~40 min): - done on Saturday morning, as I had to be in the office early Thursday morning.
 - [ ] Session B (first week):
 
-**Knee reps**: 1/7
-**Porridge**: /7
+**Knee reps**: 5/7
+**Porridge**: 6/7
 **Shopping order**:
-**Alcohol**:
-**Energy/motivation**: /10
+**Alcohol**: - 3 x session IPA at 3.8% consumed on Thursday, very much enjoyed :)
+**Energy/motivation**: 6.5/10
 
 **Notable events**:
+The 4 exercise sessions held this week, which greatly lifted my mood. Walking as a substitute, while not as fun at all, does get my heart rate to between 140 and 150 consistently, so I fell like a real session has been done.
+I have felt overall more positive on being able to maintain my fitness routine while recivering from my knee injury. A caveat is, my knee feels like it's not getting any better. This worries me, and I am preparing mentally that I might need to
+use this substituted routine until the end of October if the knee doesn't heal.
 
 **Assessment**:
+Pretty good. I have decided to drop Session A and Session B until the daily knee exercises are no longer needed. These exercises are adding 20 minutes per day, I do not want to risk the routine by overloading it at this point by adding 2 new sessions.
+This is a measured decision on it.
 
 ---
 

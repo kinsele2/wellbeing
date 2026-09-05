@@ -69,14 +69,14 @@ stopped since my very first run. It just goes through different phases of effect
 ##  31 Aug - Modified block, week 2 of 3
 
 > **EXERCISE**: /4
-- [ ] Monday fast treadmill walk (10-15% incline, ~50 min):
-- [ ] Tuesday Pilates:
-- [ ] Tuesday BodyPump:
+- [x] Monday fast treadmill walk (10-15% incline, ~50 min):
+- [x] Tuesday Pilates:
+- [x] Tuesday BodyPump:
 - [ ] Session A:
 - [ ] Thursday fast treadmill walk (10-15% incline, ~40 min):
 - [ ] Session B (first week):
 
-**Knee reps**: /7
+**Knee reps**: 1/7
 **Porridge**: /7
 **Shopping order**:
 **Alcohol**:

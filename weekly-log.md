@@ -96,22 +96,29 @@ This is a measured decision on it.
 ##  7 Sep - Modified block, week 3 of 3
 
 > **EXERCISE**: /4
-- [ ] Monday fast treadmill walk (10-15% incline, ~50 min):
-- [ ] Tuesday Pilates:
-- [ ] Tuesday BodyPump:
+- [x] Monday fast treadmill walk (10-15% incline, ~50 min):
+- [x] Tuesday Pilates:
+- [x] Tuesday BodyPump:
 - [ ] Session A:
-- [ ] Thursday fast treadmill walk (10-15% incline, ~40 min):
+- [x] Thursday fast treadmill walk (10-15% incline, ~40 min):
 - [ ] Session B:
 
-**Knee reps**: /7
-**Porridge**: /7
-**Shopping order**:
-**Alcohol**:
-**Energy/motivation**: /10
+**Knee reps**: 7/7
+**Porridge**: 7/7
+**Shopping order**: - placed
+**Alcohol**: 3 x session IPA Thursday, 2 x IPA Saturday
+**Energy/motivation**: 7.5/10
 
 **Notable events**:
+The physio cleared walking as a substitute. I feel porridge can come out of this checklist since I look forward to it every day now and am not going to miss eating it. ie. I am not tempted to
+other breakfasts.
 
 **Assessment**:
+Overall I am very happy with this week. I did all 4 planned exercises, the walking heartrate makes the benefits feel almost the same as running, so for the first time I feel I cna be in a physio
+recovery, but also actually *maintain* fitness while doing it. Also, my knee is starting to feel genuinely better for the first time. I played 18 holes of golf today (Sunday) and felt
+no pain. I am still aware there is an injury there and it's not fully healed, but it's nowhere near what it was, and feels like it will heal. This wasn't the case for the past 2 months.
+The only downside is, the physio sessions are having a mental impact on me. Due to my need for mood regulation, I now need to meditate every day. I wasn't doing this, and I was getting very 
+irritable. This is not pleasant for my family.
 
 > [!IMPORTANT]
 > Boundary review due 13 Sep. Four questions in `project-calendar.md`.

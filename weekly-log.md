@@ -130,44 +130,58 @@ irritable. This is not pleasant for my family.
 
 > **EXERCISE**: /2
 - [ ] Monday fast treadmill walk (10-15% incline, ~50 min) - treadmill access TBC:
-- [ ] Tuesday Pilates:
-- [ ] Tuesday BodyPump:
-- [ ] Session A:
+- [x] Tuesday Pilates:
 
 Fly Wednesday evening. Return Sunday 20 Sep. Golf in
 `golf-weekly-log.md`.
 
-**Knee reps**: /7
-**Porridge**: /7
-**Alcohol**:
-**Energy/motivation**: /10
+**Knee reps**: 2/7
+**Porridge**: 3/7
+**Alcohol**: on the trip to Portugal, I consumed very large quantities of alcohol on each day of the trip. I knew this would be the case, however now I also know there will be a penalty to pay
+for it. There were too many to count to be honest.
+**Energy/motivation**: 8/10
 
 **Notable events**:
+My enthusiasm before the trip was greatly elevated, because I found that the weekly routine can hold with walking as a replacement activity. It means that I can maintain veyr similar levels
+of fitness *while* recovering, rather than waiting to recover, and then ersuming my training. This felt like a revelation, and I felt really healthy leading up to the trip.
+Also on the trip itself, I had no knee pain really to speak of. This doesn't mean it isn't still an issue, I was still aware of it and that it is an issue, however it was not painful and
+didn't inhibit the trip in any way.
+Addionally on the trip, my energy levels for 3 consecutive days of golf while consuming unusually high levels of alcohol was much higher than I can remember. Even now on the night I returned,
+I feel reasonable. I know there will be a mental price to pay, however already I am much healthier both physically and mentally than I can remember being on returning from any of these
+trips. I wonder if it is because of the good practices across diet and exercise I have been maintaining since returning fro holidays this year.
 
 ---
 
 ##  21 Sep - Reassessment week
 
 > **EXERCISE**: /3
-- [ ] Monday: REST (post-trip rule)
-- [ ] Tuesday Pilates:
-- [ ] Tuesday BodyPump:
+- [x] Monday: REST (post-trip rule)
+- [x] Tuesday Pilates:
+- [x] Tuesday BodyPump:
 - [ ] Session A:
-- [ ] Thursday first run, 4-5k easy, only if physio clears:
+- [x] Thursday first run, 4-5k easy, only if physio clears:
 - [ ] Session B:
 
 **Physio follow-up**:
-**Running cleared**: yes / no / partial
+**Running cleared**: no
 
-**Knee reps**: /7
-**Porridge**: /7
-**Shopping order**:
-**Alcohol**:
-**Energy/motivation**: /10
+**Knee reps**: 6/7
+**Porridge**: 7/7
+**Shopping order**: - order placed
+**Alcohol**: the weekend unfortunately again involved 2 social occasions, where I had roughly 5 pints of beer at each. On the Friday, I also had 2 x Tia Maria's. I did make sure to drink plenty of water during both, and took breaks. This definitely helped, and now it is the Monday afterwards, I feel significantly better than this time last week.
+**Energy/motivation**: 4/10
 
 **Notable events**:
+The recovery from alcohol essentially took up to the Friday. Every day felt quite awful, and I was psychologically in difficulty for a lot of the week. I did persist with the majority of my 
+exercise plan however, so by Friday I was feeling significantly better. I really did not want to go on 2 big social occasions given the week I had, however they were unavoidable.
+I managed them fairly well though, stopping drinking earlier, drinking a pint of water, getting plenty of sleep. I even felt good on the Saturday night, and Sunday;s hangover was not that bad.
+
 
 **Assessment**:
+I decided to drop the knee exercises down to 6 days out of 7, so that I can get a break. In fact this week, I am considering dropping it to 5 per week. This will be a non-negotiable 5
+days rather than any kind of gradual phasing out. It is intended that I can look forward to break days. My knee is not healing quickly at all, so I am now expecting the healing process
+to take quite a bit longer. Thinking of doing this with exercises every single day is not sustainable for me. While I haven't ran it past the physio yet, my thinking is 5 days that
+definitely happen is better than aiming for 7 and getting less than 5 because I get fed up of them.
 
 > [!IMPORTANT]
 > Boundary review due 27 Sep. Autumn block starts 28 Sep.

@@ -47,7 +47,7 @@ Yank and edit.
 
 ## 28 Sep - Autumn block, week 1 of 4
 
-> **EXERCISE**: /4
+> **EXERCISE**: 4/4
 - [x] Monday cardio (walk, or run if cleared):
 - [x] Tuesday Pilates:
 - [x] Tuesday BodyPump:
@@ -62,6 +62,8 @@ Yank and edit.
 The addiitonal alcohol made Friday feel sluggish, however overall it didn't, at the time, feel like it actually made much difference. Writing this on Tuesday evening of the following week however, Monday's cardio felt very difficult, and I had an interrupted sleep. Tuesday morning pilates was better, but still a sense of deep tiredness was there. For additional context on this, I played golf on Sunday on a much longer course, totalling maybe 16k steps as opposed to my regular 10k. I think this also factored into the ensuing fatigue.
 
 **Assessment**:
+This was the first week in some time without major social commitments that involved elements of travel over the weekend. The previous weekends included a heavy trip to Portugal, the one after included another golfing outing with an overnight trip, immediately followed by an annual Oktoberfest party in our friends house. While this weekend was somewhat quieter, it did involve a full day of golfing on a large course, outside of my usual routine. I don't know if this factored into the tiredness I felt during the week, but I definitely felt immensely tired.
+I did add an additional 2 x IPA's on the Friday night, which was unplanned, and meant I had 3 consecutive days consuming alcohol. I'm not sure if this, also in combination with the accumulated fatigue from the previous month, just added up to result in fatigue.
 
 
 > [!NOTE]
@@ -74,17 +76,18 @@ The addiitonal alcohol made Friday feel sluggish, however overall it didn't, at 
 ## 5 Oct - Autumn block, week 2 of 4
 
 > **EXERCISE**: /4
-- [ ] Monday cardio (walk, or run if cleared):
-- [ ] Tuesday Pilates:
-- [ ] Tuesday BodyPump:
-- [ ] Thursday cardio (walk, or run if cleared):
+- [x] Monday cardio (walk, or run if cleared):
+- [x] Tuesday Pilates:
+- [x] Tuesday BodyPump:
+- [x] Thursday cardio (walk, or run if cleared):
 
-**Knee reps**: /5
-**Shopping order**:
-**Alcohol**:
-**Energy/motivation**: /10
+**Knee reps**: 0/5
+**Shopping order**: Placed and collected
+**Alcohol**: 3 x Session IPA as planned on Thursday. 1 x lighter IPA on Friday (I'm considering introducing just 1 for Friday evenings, am interested in your thoughts here). 3 x 440ml Session IPA's on Sunday afternoon, stopping alcohol consumption at 4:30pm
+**Energy/motivation**: 5/10
 
 **Notable events**:
+
 
 **Assessment**:
 

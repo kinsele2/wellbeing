@@ -87,20 +87,24 @@ I did add an additional 2 x IPA's on the Friday night, which was unplanned, and 
 **Energy/motivation**: 5/10
 
 **Notable events**:
-
+As mentioned in the previous week's notes, Monday & Tuesday here were very difficult to motivate myself for exercises and work. There is a sense I am at y last reserves of energy and just giving that last bit to get these exercises done.
+The walking cardio is proving actually quite difficult. Again I am doing 4k at 5.6kph at an incline of 10 degrees. By the end of the session, I am struggling to finish it. This is despite my heart rate being in the zone I am aiming for.
+Friday was again spent feeling sluggish, despite having just session IPA's. This approach had been working well over the summer, but recently feels like it's taking a stronger toll despite being the same amount of alcohol. I am starting them that little bit later in the evening, at 7pm instead of 5:30pm previously.
 
 **Assessment**:
+I added one IPA on Friday evening, I would like your take on if adding this one is a reasonable addition to the week. I am aware it is increasing consumption rather than decreasing which was the original plan, but it does act in a similar way to the chocolate, something to look forward to, and something that provides a release valve of sorts from the week.
+The knee reps have disappeared from my schedule now, and I am finding them very difficult to resume given my energy levels, and that overall sense of being on my last reserves of energy.
 
 ---
 ## 12 Oct - Autumn block, week 3 of 4
 
 > **EXERCISE**: /4
-- [ ] Monday cardio (walk, or run if cleared):
-- [ ] Tuesday Pilates:
-- [ ] Tuesday BodyPump:
-- [ ] Thursday cardio (walk, or run if cleared):
+- [x] Monday cardio (walk, or run if cleared):
+- [x] Tuesday Pilates:
+- [x] Tuesday BodyPump:
+- [x] Thursday cardio (walk, or run if cleared):
 
-**Knee reps**: /5
+**Knee reps**: 0/5
 **Shopping order**:
 **Alcohol**:
 **Energy/motivation**: /10

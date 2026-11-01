@@ -117,19 +117,21 @@ The knee reps have disappeared from my schedule now, and I am finding them very 
 ## 19 Oct - Autumn block, week 4 of 4
 
 > **EXERCISE**: /4
-- [ ] Monday cardio (walk, or run if cleared):
-- [ ] Tuesday Pilates:
-- [ ] Tuesday BodyPump:
-- [ ] Thursday cardio (walk, or run if cleared):
+- [x] Monday cardio (walk, or run if cleared):
+- [x] Tuesday Pilates:
+- [x] Tuesday BodyPump:
+- [x] Thursday cardio (walk, or run if cleared):
 
-**Knee reps**: /5
-**Shopping order**:
-**Alcohol**:
-**Energy/motivation**: /10
+**Knee reps**: 1/5
+**Shopping order**: Placed and collected
+**Alcohol**: 2 x IPA 4.3% Thursday, 1 x IPA 4.3% Friday, 2 x IPA Saturday 5%
+**Energy/motivation**: 7/10
 
 **Notable events**:
+Motivation was better this week. Knee exercises are still not happening, but the core 4 exercise sessions are all holding and I am now enjoying. Thursdays sessions I need to motivate for, and the thought has started to creep in that I might skip it. I haven't come close to missing it yet, noting for reference.
 
 **Assessment**:
+A decent week, however my knee is not better, and the knee reps have fallen off. When doing them in full they were not working, this has killed motivation a bit, and now they have almost fully dropped off. Again it is the thoughts of the emotional regulation requirement they induce that is putting me off doing them.
 
 > [!IMPORTANT]
 > Boundary review due 25 Oct. Four questions in `project-calendar.md`.
@@ -140,14 +142,14 @@ The knee reps have disappeared from my schedule now, and I am finding them very 
 ## 26 Oct - Lower volume week (daughter's mid-term)
 
 > **EXERCISE**: /3
-- [ ] Monday: REST (scheduled)
-- [ ] Tuesday Pilates:
-- [ ] Tuesday BodyPump:
-- [ ] Thursday easy cardio (5k run if cleared, otherwise walk):
+- [x] Monday: REST (scheduled)
+- [x] Tuesday Pilates:
+- [x] Tuesday BodyPump:
+- [x] Thursday easy cardio (5k run if cleared, otherwise walk):
 
-**Knee reps**: /5
-**Shopping order**:
-**Alcohol**:
+**Knee reps**: 1/5
+**Shopping order**: Placed and collected
+**Alcohol**: 5 pints of Guinness at a work social on Thursday.
 **Energy/motivation**: /10
 
 **Notable events**:

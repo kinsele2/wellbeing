@@ -1,0 +1,74 @@
+# Typical Week
+#
+# The recurring shape of a week. Google Calendar keeps the events; this keeps
+# the structure underneath them.
+#
+# Format:   [mark] Day(s)  HH:MM-HH:MM  category  Label [?]
+#
+#   Day(s)  Mon | Mon-Fri | Sat,Sun
+#   mark    (none) in both weeks
+#           -      current week only (what goes away)
+#           +      target week only (what gets added)
+#   ?       at the end of a label = guess / provisional, drawn dashed
+#
+# Day labels:  @day Tue,Thu  office    (shown in the day header, column tinted)
+#
+# Comments start with "# ". Save and the Firefox tab updates.
+
+@cat work      #616161  Work
+@cat exercise  #0b8043  Exercise
+@cat care      #7986cb  Knee reps / meditation
+@cat family    #f6bf26  Family
+@cat c         #d81b60  C / home security
+@cat french    #8e24aa  French
+@cat cooking   #f4511e  Cooking
+@cat home      #e67c73  Home projects (with wife)
+@cat rest      #039be5  Rest
+@cat travel    #a79b8e  Commute
+
+@day Tue,Thu   office am
+
+# --- Exercise (the proven anchors) -----------------------------------------
+  Mon      17:00-19:00  exercise  Treadmill cardio ?
+  Tue      07:30-08:30  exercise  Pilates
+  Tue      19:00-20:00  exercise  BodyPump
+  Thu      07:30-08:40  exercise  Treadmill cardio ?
+  # Mon-Fri  08:15-08:35  care      Knee reps ?
+  # Mon-Sun  21:30-21:45  care      Meditation ?
+
+# --- Work ------------------------------------------------------------------
+# Hours only. How the time inside work is spent belongs in a separate view.
+  Mon      09:00-17:00  work      Work ?
+  Wed,Fri  09:00-17:30  work      Work ?
+# - Mon-Thu  20:00-22:00  work      Work spill-over ?   # replace with reality
+
+# Office days: in by 09:00, leave around 14:00-14:30, finish at home.
+  Tue      08:30-09:00  travel    Drive in
+  Thu      08:50-09:30  travel    Drive in
+  Tue      09:00-14:15  work      Work - office
+  Thu      09:30-14:15  work      Work - office
+  Tue,Thu  14:15-14:45  travel    Drive home ?
+  Tue,Thu  14:45-17:30  work      Work - home ?
+
+# --- Family ----------------------------------------------------------------
+  Fri      15:00-16:00  family    Gymnastics
+  Sat      09:25-10:15  family    Swimming lessons
+
+# --- French ----------------------------------------------------------------
+  Sat      11:00-12:00  french    French ?
++ Mon      20:30-21:00  french    French - short session ?
+
+# --- C / home security -----------------------------------------------------
++ Mon      10:00-11:00  c         C - home security ?
++ Wed      20:00-21:30  c         C - home security ?
++ Fri      10:00-12:30  c         C - home security (at work)
+
+# --- Cooking ---------------------------------------------------------------
++ Wed      18:00-19:00  cooking   Cook dinner ?
++ Sun      16:00-18:00  cooking   Cook for the week ?
+
+# --- Home projects ---------------------------------------------------------
++ Sun      19:30-20:30  home      Plan home projects together ?
+
+# --- Rest ------------------------------------------------------------------
++ Fri      19:00-22:30  rest      Off - nothing owed ?

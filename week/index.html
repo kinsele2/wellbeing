@@ -1,0 +1,251 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<title>Typical Week</title>
+<style>
+  :root {
+    --start: 6; --end: 24; --px: 46px;
+    --line: #e0e0e0; --text: #3c4043; --muted: #70757a; --accent: #1a73e8;
+    font-family: "Google Sans", Roboto, "Segoe UI", system-ui, sans-serif;
+    color: var(--text);
+  }
+  * { box-sizing: border-box; }
+  body { margin: 0; display: flex; flex-direction: column; height: 100vh; background: #fff; }
+
+  header { display: flex; align-items: center; gap: 16px; padding: 10px 20px; border-bottom: 1px solid var(--line); }
+  header h1 { font-size: 22px; font-weight: 400; margin: 0 16px 0 0; }
+  .views { display: flex; border: 1px solid #dadce0; border-radius: 18px; overflow: hidden; }
+  .views button { border: 0; background: #fff; padding: 7px 16px; font: inherit; font-size: 14px; color: var(--text); cursor: pointer; }
+  .views button + button { border-left: 1px solid #dadce0; }
+  .views button.on { background: #e8f0fe; color: var(--accent); }
+  .hint { color: var(--muted); font-size: 13px; }
+
+  #errors { background: #fce8e6; color: #a50e0e; font-size: 13px; padding: 6px 20px; white-space: pre-line; }
+  #errors:empty { display: none; }
+
+  main { flex: 1; display: flex; min-height: 0; }
+  .cal { flex: 1; overflow-y: auto; }
+  .daysHead { display: grid; grid-template-columns: 56px repeat(7, 1fr); position: sticky; top: 0; background: #fff; z-index: 3; border-bottom: 1px solid var(--line); }
+  .daysHead div { text-align: center; padding: 8px 0 10px; font-size: 11px; font-weight: 500; color: var(--muted); letter-spacing: .8px; }
+  .daysHead div.today { color: var(--accent); }
+  .daysHead .tag { display: block; margin-top: 3px; font-size: 10px; letter-spacing: .5px; color: #5f6368;
+                   background: #f1f3f4; border-radius: 8px; padding: 1px 0; margin-inline: 25%; }
+  .day.tagged { background-color: #f8f9fa; }
+  .grid { display: grid; grid-template-columns: 56px repeat(7, 1fr); }
+  .gutter { position: relative; }
+  .gutter span { position: absolute; right: 8px; font-size: 10px; color: var(--muted); transform: translateY(-50%); }
+  .day { position: relative; border-left: 1px solid var(--line);
+         height: calc((var(--end) - var(--start)) * var(--px));
+         background: repeating-linear-gradient(to bottom, var(--line) 0 1px, transparent 1px var(--px)); }
+
+  .ev { position: absolute; border-radius: 5px; padding: 2px 6px; font-size: 12px; line-height: 1.25;
+        overflow: hidden; cursor: default; border: 1px solid #fff; transition: opacity .15s; }
+  .ev b { font-weight: 500; display: block; white-space: nowrap; overflow: hidden; text-overflow: ellipsis; }
+  .ev small { opacity: .85; }
+  .ev.tentative { border: 2px dashed rgba(255,255,255,.85); }
+  .ev.add { box-shadow: 0 0 0 2px #188038; }
+  .ev.remove { opacity: .45; background-image: repeating-linear-gradient(45deg, rgba(255,255,255,.35) 0 6px, transparent 6px 12px) !important; }
+  .ev.remove b { text-decoration: line-through; }
+  .ev.dim { opacity: .15; }
+  .now { position: absolute; left: 0; right: 0; height: 2px; background: #ea4335; z-index: 2; }
+  .now::before { content: ""; position: absolute; left: -6px; top: -5px; width: 12px; height: 12px; border-radius: 50%; background: #ea4335; }
+
+  aside { width: 320px; border-left: 1px solid var(--line); padding: 16px; overflow-y: auto; font-size: 13px; }
+  aside h2 { font-size: 14px; font-weight: 500; margin: 0 0 8px; }
+  table { width: 100%; border-collapse: collapse; }
+  th { text-align: right; font-weight: 500; color: var(--muted); font-size: 11px; padding: 4px; }
+  th:first-child { text-align: left; }
+  td { padding: 5px 4px; text-align: right; font-variant-numeric: tabular-nums; }
+  td:first-child { text-align: left; }
+  tr.cat { cursor: pointer; }
+  tr.cat:hover td { background: #f1f3f4; }
+  tr.cat.focus td { background: #e8f0fe; }
+  tr.total td { border-top: 1px solid var(--line); font-weight: 500; }
+  .sw { display: inline-block; width: 11px; height: 11px; border-radius: 3px; margin-right: 7px; vertical-align: -1px; }
+  .up { color: #188038; } .down { color: #c5221f; }
+  .note { color: var(--muted); margin-top: 14px; line-height: 1.5; }
+  .key { margin-top: 14px; line-height: 1.9; color: var(--muted); }
+  .key i { display: inline-block; width: 22px; height: 12px; border-radius: 3px; vertical-align: -1px; margin-right: 6px; background: #9aa0a6; }
+</style>
+</head>
+<body>
+<header>
+  <h1>Typical Week</h1>
+  <div class="views">
+    <button data-view="current">Current</button>
+    <button data-view="target">Target</button>
+    <button data-view="diff">Change</button>
+  </div>
+  <span class="hint">Edit <code>week/typical-week.txt</code>. Click a category to focus it.</span>
+</header>
+<div id="errors"></div>
+<main>
+  <div class="cal">
+    <div class="daysHead" id="daysHead"></div>
+    <div class="grid" id="grid"></div>
+  </div>
+  <aside>
+    <h2>Hours per week</h2>
+    <table id="totals"></table>
+    <div class="key">
+      <div><i style="border:2px dashed #fff;outline:1px solid #9aa0a6"></i>dashed = guess, not confirmed</div>
+      <div><i style="box-shadow:0 0 0 2px #188038"></i>green outline = added in target</div>
+      <div><i style="opacity:.45"></i>faded, struck = removed in target</div>
+    </div>
+    <p class="note">Waking hours shown: 06:00 to midnight.
+      Google Calendar holds the events. This page holds the structure under them.</p>
+  </aside>
+</main>
+
+<script>
+const DAYS = ["MON", "TUE", "WED", "THU", "FRI", "SAT", "SUN"];
+const START = 6 * 60, END = 24 * 60;
+const PX = parseFloat(getComputedStyle(document.documentElement).getPropertyValue("--px"));
+
+let view = localStorage.getItem("view") || "current";
+let focus = new Set(JSON.parse(localStorage.getItem("focus") || "[]"));
+let data = null, lastRaw = "";
+
+const y = min => (Math.max(min, START) - START) / 60 * PX;
+const hhmm = m => `${String(Math.floor(m / 60)).padStart(2, "0")}:${String(m % 60).padStart(2, "0")}`;
+const hours = m => (m / 60).toFixed(1).replace(/\.0$/, "");
+
+function textColour(hex) {
+  const [r, g, b] = [1, 3, 5].map(i => parseInt(hex.slice(i, i + 2), 16));
+  return (0.299 * r + 0.587 * g + 0.114 * b) > 170 ? "#202124" : "#fff";
+}
+
+function inView(item, v) {
+  if (v === "current") return item.mark !== "+";
+  if (v === "target") return item.mark !== "-";
+  return true;
+}
+
+// Side-by-side lanes for overlapping blocks within a day.
+function layout(items) {
+  items.sort((a, b) => a.start - b.start || b.end - a.end);
+  let cluster = [], clusterEnd = -1;
+  const flush = () => {
+    const lanes = [];
+    for (const it of cluster) {
+      let lane = lanes.findIndex(end => end <= it.start);
+      if (lane < 0) lane = lanes.length;
+      lanes[lane] = it.end;
+      it.lane = lane;
+    }
+    cluster.forEach(it => it.lanes = lanes.length);
+    cluster = [];
+  };
+  for (const it of items) {
+    if (it.start >= clusterEnd) { flush(); clusterEnd = it.end; }
+    clusterEnd = Math.max(clusterEnd, it.end);
+    cluster.push(it);
+  }
+  flush();
+}
+
+function render() {
+  const cats = Object.fromEntries(data.cats.map(c => [c.id, c]));
+  document.getElementById("errors").textContent = data.errors.join("\n");
+  document.querySelectorAll(".views button").forEach(b => b.classList.toggle("on", b.dataset.view === view));
+
+  const today = (new Date().getDay() + 6) % 7;
+  const tags = data.days || {};
+  document.getElementById("daysHead").innerHTML =
+    "<div></div>" + DAYS.map((d, i) => `<div class="${i === today ? "today" : ""}">${d}` +
+      (tags[i] || []).map(t => `<span class="tag">${t.toUpperCase()}</span>`).join("") + "</div>").join("");
+
+  const grid = document.getElementById("grid");
+  let gutter = '<div class="gutter">';
+  for (let h = START / 60 + 1; h < END / 60; h++) gutter += `<span style="top:${(h * 60 - START) / 60 * PX}px">${String(h).padStart(2, "0")}:00</span>`;
+  grid.innerHTML = gutter + "</div>";
+
+  for (let d = 0; d < 7; d++) {
+    const col = document.createElement("div");
+    col.className = tags[d] ? "day tagged" : "day";
+    const items = data.items.filter(it => it.day === d && inView(it, view) && it.end > START).map(it => ({ ...it }));
+    layout(items);
+    for (const it of items) {
+      const c = cats[it.cat];
+      const el = document.createElement("div");
+      el.className = "ev";
+      if (it.tentative) el.classList.add("tentative");
+      if (view === "diff" && it.mark === "+") el.classList.add("add");
+      if (view === "diff" && it.mark === "-") el.classList.add("remove");
+      if (focus.size && !focus.has(it.cat)) el.classList.add("dim");
+      const w = 100 / it.lanes;
+      const h = Math.max(y(it.end) - y(it.start) - 1, 14);
+      Object.assign(el.style, {
+        top: y(it.start) + "px",
+        height: h + "px",
+        left: `calc(${it.lane * w}% + 1px)`,
+        width: `calc(${w}% - 3px)`,
+        background: c.color,
+        color: textColour(c.color),
+      });
+      const short = h < 36;  // two lines of text need ~36px; otherwise put the time inline
+      el.innerHTML = `<b>${it.label || c.name}${short ? ` <small>${hhmm(it.start)}</small>` : ""}</b>` +
+        (short ? "" : `<small>${hhmm(it.start)} – ${hhmm(it.end)}</small>`);
+      el.title = `${c.name}\n${it.label}\n${hhmm(it.start)}–${hhmm(it.end)}${it.tentative ? "\n(guess)" : ""}\nline ${it.line}`;
+      col.appendChild(el);
+    }
+    if (d === today) {
+      const n = new Date(), m = n.getHours() * 60 + n.getMinutes();
+      if (m >= START) col.insertAdjacentHTML("beforeend", `<div class="now" style="top:${y(m)}px"></div>`);
+    }
+    grid.appendChild(col);
+  }
+
+  renderTotals(cats);
+}
+
+function renderTotals(cats) {
+  const sum = v => {
+    const t = {};
+    for (const it of data.items) if (inView(it, v)) t[it.cat] = (t[it.cat] || 0) + it.end - it.start;
+    return t;
+  };
+  const cur = sum("current"), tgt = sum("target");
+  let html = "<tr><th>Category</th><th>Current</th><th>Target</th><th>Δ</th></tr>";
+  let tc = 0, tt = 0;
+  for (const c of data.cats) {
+    const a = cur[c.id] || 0, b = tgt[c.id] || 0, d = b - a;
+    tc += a; tt += b;
+    const delta = d === 0 ? "" : `<span class="${d > 0 ? "up" : "down"}">${d > 0 ? "+" : "−"}${hours(Math.abs(d))}</span>`;
+    html += `<tr class="cat ${focus.has(c.id) ? "focus" : ""}" data-cat="${c.id}">
+      <td><span class="sw" style="background:${c.color}"></span>${c.name}</td>
+      <td>${a ? hours(a) : "–"}</td><td>${b ? hours(b) : "–"}</td><td>${delta}</td></tr>`;
+  }
+  html += `<tr class="total"><td>Scheduled</td><td>${hours(tc)}</td><td>${hours(tt)}</td><td></td></tr>`;
+  html += `<tr><td style="color:var(--muted)">Unscheduled waking</td><td>${hours(7 * (END - START) - tc)}</td><td>${hours(7 * (END - START) - tt)}</td><td></td></tr>`;
+  const table = document.getElementById("totals");
+  table.innerHTML = html;
+  table.querySelectorAll("tr.cat").forEach(tr => tr.onclick = () => {
+    const id = tr.dataset.cat;
+    focus.has(id) ? focus.delete(id) : focus.add(id);
+    localStorage.setItem("focus", JSON.stringify([...focus]));
+    render();
+  });
+}
+
+document.querySelectorAll(".views button").forEach(b => b.onclick = () => {
+  view = b.dataset.view;
+  localStorage.setItem("view", view);
+  render();
+});
+
+async function poll() {
+  try {
+    const raw = await (await fetch("/data.json", { cache: "no-store" })).text();
+    if (raw !== lastRaw) { lastRaw = raw; data = JSON.parse(raw); render(); }
+  } catch (e) {
+    document.getElementById("errors").textContent = "Server not running: python3 week/serve.py";
+  }
+}
+poll();
+setInterval(poll, 1500);
+setInterval(() => data && render(), 60000);  // keep the "now" line moving
+</script>
+</body>
+</html>

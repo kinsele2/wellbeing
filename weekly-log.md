@@ -166,17 +166,20 @@ A decent week, however my knee is not better, and the knee reps have fallen off.
 > **EXERCISE**: /4
 - [ ] Monday cardio (walk, or run if cleared):
 - [ ] Tuesday Pilates:
-- [ ] Tuesday BodyPump:
+- [x] Tuesday BodyPump:
 - [ ] Thursday cardio (walk, or run if cleared):
 
-**Knee reps**: /5
-**Shopping order**:
-**Alcohol**:
-**Energy/motivation**: /10
+**Knee reps**: 0/5
+**Shopping order**: - placed and collected
+**Alcohol**: 2 x IPA Thursday evening, 1 x IPA Friday evening, 4 x Hop House lager Saturday evening
+**Energy/motivation**: 7/10
 
 **Notable events**:
+This was a "gap" week, where I had aimed to do both bodypump and one pilates session. I ended up playing golf on Thursday morning, where the pilates slot would have gone, and this broke the slot. I intended to replace it on Friday morning, but this didn't happen.
 
 **Assessment**:
+The knee reps have dropped away significantly. I have a physio appointment next week, where I will ask what the minimum is for the knee to get better at some point. I cannot do 7 days per week as per his instructions, and at the moment I can't even get to 2-3. The knee does feel much better than it did at the beginning, but still definitely not healed.
+In terms of the gap week, overall I would say it was a success, and I enjoyed it. I have some trepidation now that this will somehow be the end of this entire project, irrationally, but I do plan on resuming a full workout this week and up to the trip to Munich that is upcoming.
 
 ---
 ## 9 Nov - Winter block, week 2 of 7
